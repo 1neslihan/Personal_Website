@@ -9,9 +9,11 @@ function App() {
       <div className="container-sm" style={{ width: "70%" }}>
         <div className="pt-5">
           <img
-            src="./public/profilepic.png"
+            src="./public/profilepic2.jpg"
+            width="250"
             alt="NeslihansProfile.png"
-            className="pattern-diagonal-lines-md gray-light p-1"
+            // className="pattern-diagonal-lines-md gray-light p-1"
+            style={{borderRadius:"50%"}}
           />
         </div>
         <p className="text-primary fs-5 fw-bold pt-3">Neslihan Çakırbaş</p>
