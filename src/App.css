@@ -44,10 +44,10 @@
 
 @keyframes scroll {
   from {
-    transform: translateX(100%);
+    transform: translateX(50%);
   }
   to {
-    transform: translateX(-100%);
+    transform: translateX(-50%);
   }
 }
 
@@ -55,7 +55,7 @@
   white-space: nowrap;
   overflow:visible;
   display: inline-block;
-  animation: scroll 30s linear infinite;
+  animation: scroll 20s linear infinite;
 }
 .scrolling-text:hover {
   animation-play-state: paused; /* Üzerine gelindiğinde animasyonu duraklat */

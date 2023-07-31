@@ -9,7 +9,7 @@ function App() {
       <div className="container-sm" style={{ width: "70%" }}>
         <div className="pt-5">
           <img
-            src="./public/profilepic2.jpg"
+            src="https://raw.githubusercontent.com/1neslihan/Personal_Website/master/public/profilepic2.jpg"
             width="250"
             alt="NeslihansProfile.png"
             // className="pattern-diagonal-lines-md gray-light p-1"
