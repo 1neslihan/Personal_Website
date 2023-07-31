@@ -398,7 +398,7 @@ function App() {
                     informed and prepared with my user-friendly Ramadan timing
                     solution.
                   </p>
-                  <a href="#" className="btn btn-primary">
+                  <a href="https://github.com/1neslihan/Turkiye-Iftar-Times" className="btn btn-primary">
                     View on Github
                   </a>
                 </div>
@@ -422,7 +422,7 @@ function App() {
                     investments and access real-time stock data anytime,
                     anywhere!
                   </p>
-                  <a href="#" className="btn btn-primary">
+                  <a href="https://github.com/1neslihan/PostgreSQL-UrunStokTakip" className="btn btn-primary">
                     View on Github
                   </a>
                 </div>
