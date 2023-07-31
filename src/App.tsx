@@ -48,10 +48,11 @@ function App() {
             Let's create something amazing together!
           </p>
 
-          <div>
+          <div style={{overflow:"hidden"}}>
             <h3 className="fs-4 fw-bold text-primary">My Skills</h3>
             <hr/>
-            <marquee>
+            
+            <p className="scrolling-text" >
               <a
                 href="https://www.w3schools.com/cs/"
                 target="_blank"
@@ -170,7 +171,6 @@ function App() {
                   height="100"
                 />
               </a>
-
               <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
                 <img
                   src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
@@ -228,7 +228,7 @@ function App() {
                   height="100"
                 />
               </a>
-            </marquee>
+            </p>
           </div>
         </div>
         <div className="text-start mt-5" id="MyProjects">
